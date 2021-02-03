@@ -1,0 +1,10 @@
+C:\Curso C# SENAI\SisBanco\bin\Debug\SisBanco.exe.config
+C:\Curso C# SENAI\SisBanco\bin\Debug\SisBanco.exe
+C:\Curso C# SENAI\SisBanco\bin\Debug\SisBanco.pdb
+C:\Curso C# SENAI\SisBanco\obj\Debug\SisBanco.csprojAssemblyReference.cache
+C:\Curso C# SENAI\SisBanco\obj\Debug\SisBanco.Properties.Resources.resources
+C:\Curso C# SENAI\SisBanco\obj\Debug\SisBanco.csproj.GenerateResource.cache
+C:\Curso C# SENAI\SisBanco\obj\Debug\SisBanco.csproj.CoreCompileInputs.cache
+C:\Curso C# SENAI\SisBanco\obj\Debug\SisBanco.exe
+C:\Curso C# SENAI\SisBanco\obj\Debug\SisBanco.pdb
+C:\Curso C# SENAI\SisBanco\obj\Debug\SisBanco.frmCadastro.resources
